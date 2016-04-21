@@ -1,6 +1,4 @@
-#Grability iOS Developer
-
-- Aplicación creada para la prueba técnica de Grability, que presenta la lista de aplicaciones más descargadas del App Store de Apple
+- Aplicación creada para mostrar el funcionamiento del protocolo UIViewControllerTransitioningDelegate, que presenta la lista de aplicaciones más descargadas del App Store de Apple
 
 ## Descargar la aplicación
 
@@ -10,7 +8,7 @@
 
 - O ejecutando el siguiente comando en consola:
 ```
-$ git clone https://github.com/agomezm86/grability.git
+$ git clone https://github.com/agomezm86/ControllerAnimations.git
 ```
 
 ## Funcionalidades: ##
